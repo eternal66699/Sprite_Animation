@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coins
   layers:
   - Default
   - TransparentFX
@@ -49,6 +50,21 @@ TagManager:
     locked: 0
   - name: Walls
     uniqueID: 1380645861
+    locked: 0
+  - name: Bear Trap
+    uniqueID: 3856556837
+    locked: 0
+  - name: Fire Trap
+    uniqueID: 600347425
+    locked: 0
+  - name: Pit Trap Spikes
+    uniqueID: 2487944437
+    locked: 0
+  - name: Push trap
+    uniqueID: 124017985
+    locked: 0
+  - name: Push Trap RIght
+    uniqueID: 1034453333
     locked: 0
   - name: Player
     uniqueID: 1396181453
