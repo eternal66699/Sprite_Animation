@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Coins
+  - Health
+  - Speed
   layers:
   - Default
   - TransparentFX
@@ -71,4 +73,10 @@ TagManager:
     locked: 0
   - name: Coin
     uniqueID: 2722076869
+    locked: 0
+  - name: Health Item
+    uniqueID: 407092057
+    locked: 0
+  - name: Speed Power Up
+    uniqueID: 2749898547
     locked: 0
